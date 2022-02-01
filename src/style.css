@@ -5,6 +5,9 @@
   --paragraph-font-familiy: "Poppins", sans-serif;
   --button-color: #6c63ff;
 }
+body {
+  margin-bottom: 150px;
+}
 
 h1,
 h2,
@@ -18,12 +21,16 @@ p {
   font-family: var(--paragraph-font-familiy);
   font-weight: normal;
   color: var(--primary-font-color);
+  font-size: 16px;
+}
+h2 {
+  font-size: 64px;
 }
 .hero {
   text-align: center;
   background-color: var(--primary-background-color);
   padding-top: 200px;
-  padding-bottom: 200px;
+  padding-bottom: 250px;
 }
 h1 {
   font-size: 96px;
@@ -48,4 +55,15 @@ h1 {
 }
 .main-body {
   margin-top: 75px;
+}
+.grid-text {
+  color: #272142b2;
+}
+.project-button {
+  font-size: 16px;
+  color: var(--button-color);
+  text-decoration: none;
+  padding: 18px 30px;
+  border: 1px solid var(--button-color);
+  border-radius: 4px;
 }
