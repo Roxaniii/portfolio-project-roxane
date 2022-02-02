@@ -111,3 +111,11 @@ h1 {
   font-size: 18px;
   color: #272142b2;
 }
+.work-inquiry a {
+  text-decoration: none;
+  font-size: 27px;
+  color: #ffffff;
+  background-color: var(--button-color);
+  padding: 25px 35px;
+  border-radius: 4px;
+}
