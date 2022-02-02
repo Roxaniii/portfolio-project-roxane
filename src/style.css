@@ -135,3 +135,16 @@ h1 {
   text-align: center;
   margin-top: 50px;
 }
+.mail {
+  font-size: 24px;
+  text-decoration: none;
+  display: block;
+  text-align: center;
+  margin-top: 150px;
+  color: var(--primary-font-color);
+}
+.social-media-icons {
+  text-align: center;
+  margin-top: 20px;
+  font-size: 50px;
+}
