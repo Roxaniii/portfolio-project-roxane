@@ -195,3 +195,13 @@ h1 {
   width: 50%;
   border-radius: 4px;
 }
+.projects-body {
+  margin-left: 80px;
+  margin-right: 80px;
+  padding-top: 200px;
+  padding-bottom: 250px;
+}
+.projects-body h1 {
+  font-size: 64px;
+  margin-bottom: 90px;
+}
