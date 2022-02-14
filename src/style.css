@@ -87,7 +87,7 @@ h1 {
   .hero {
     padding: 80px 20px;
   }
-  p {
+  .grid-text {
     text-align: center;
     margin-left: 55px;
   }
@@ -100,6 +100,17 @@ h1 {
     display: block;
     text-align: center;
     padding: 18px 30px;
+  }
+  .projects-btn {
+    display: block;
+    margin: auto;
+    text-align: center;
+  }
+  .about-hero p {
+    text-align: center;
+  }
+  .about-hero h1 {
+    text-align: center;
   }
 }
 .work-inquiry {
@@ -182,4 +193,5 @@ h1 {
   margin-left: auto;
   margin-right: auto;
   width: 50%;
+  border-radius: 4px;
 }
