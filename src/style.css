@@ -159,8 +159,17 @@ h1 {
 }
 .social-media-icons {
   text-align: center;
-  margin-top: 20px;
   font-size: 50px;
+}
+.social-media-icons a {
+  color: var(--button-color);
+  border-radius: 50%;
+  background-color: var(--primary-background-color);
+  margin: 0 20px;
+}
+.social-media-icons a:hover {
+  background-color: var(--button-color);
+  color: var(--primary-background-color);
 }
 .about-hero {
   padding-top: 200px;
