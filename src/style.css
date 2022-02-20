@@ -226,3 +226,6 @@ h1 {
 .contact-body h1 {
   font-size: 64px;
 }
+.contact-methods p {
+  color: #272142b2;
+}
